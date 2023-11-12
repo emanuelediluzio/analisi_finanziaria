@@ -1,8 +1,4 @@
 
-Capisco, hai bisogno di suggerimenti per creare un file README.md per la tua repository GitHub. Ecco un esempio di come potrebbe apparire il tuo file README.md con le informazioni fornite:
-
-markdown
-Copy code
 # Progetto di Analisi Finanziaria
 
 Questo repository contiene un notebook Jupyter che esegue analisi finanziaria utilizzando dati storici delle azioni e informazioni finanziarie.
